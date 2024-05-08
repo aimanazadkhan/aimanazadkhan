@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Aiman</h1>
 
-<h3 align="center">I am a 4th year student of Computer Science and Engineering (CSE) at Leading University. I like to explore new technologies and try to use them to solve real life problems.</h3>
+<h3 align="center">I'm a passionate Computer Science and Technology graduate from [Leading University], specializing in [Your Specialization or Interests]. I thrive on tackling complex problems and crafting innovative solutions that make a difference.</h3>
 
 
 ## 🙋‍♂️ About Me
