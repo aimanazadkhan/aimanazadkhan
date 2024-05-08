@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Aiman</h1>
 
-<h3 align="center">I'm a passionate Computer Science and Technology graduate from [Leading University], specializing in [Your Specialization or Interests]. I thrive on tackling complex problems and crafting innovative solutions that make a difference.</h3>
+<h3 align="center">I'm a passionate Computer Science and Technology graduate from Leading University, specializing in Web Development. I thrive on tackling complex problems and crafting innovative solutions that make a difference.</h3>
 
 
 ## 🙋‍♂️ About Me
